@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning 3D applications with ThreeJs<br>🎯 Goals: Become Excellent at 3D programming<br>🎲 Fun fact: I didn't pick Engineering, Engineering picked me :)</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning 3D applications with ThreeJs and Unity :D <br>🎯 Goals: Become Excellent at 3D programming<br>🎲 Fun fact: I didn't pick Engineering, Engineering picked me :)</p>
 
 ###
 
